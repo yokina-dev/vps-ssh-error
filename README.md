@@ -14,6 +14,7 @@ Add correct host key in /Users/isaacalves/.ssh/known_hosts to get rid of this me
 Offending RSA key in /Users/isaacalves/.ssh/known_hosts:12
 RSA host key for 104.131.16.158 has changed and you have requested strict checking.
 Host key verification failed.
+```
 
 ```
 ssh-keygen -R "you server hostname or ip"
