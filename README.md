@@ -1,6 +1,6 @@
 # WARNING-REMOTE-HOST-IDENTIFICATION-HAS-CHANGED
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+`@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
@@ -12,7 +12,7 @@ Please contact your system administrator.
 Add correct host key in /Users/isaacalves/.ssh/known_hosts to get rid of this message.
 Offending RSA key in /Users/isaacalves/.ssh/known_hosts:12
 RSA host key for 104.131.16.158 has changed and you have requested strict checking.
-Host key verification failed.
+Host key verification failed.`
 
 
 ```
