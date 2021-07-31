@@ -15,8 +15,8 @@ Offending RSA key in /Users/isaacalves/.ssh/known_hosts:12
 RSA host key for 104.131.16.158 has changed and you have requested strict checking.
 Host key verification failed.
 ```
-# To solve this problem on vps connecton by ssh on terminal 👆 
+>- # To solve this problem on vps connecton by ssh on terminal 👆 
 ```
 ssh-keygen -R "you server hostname or ip"
 ```
-# Run this command to Repair problem 👆
+>- # Run this command to Repair problem 👆
